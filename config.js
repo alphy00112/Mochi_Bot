@@ -46,56 +46,56 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281387307198', 'Ryzn', true]
+['6281391317450', 'Kisanagi', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6281387307198'
-global.nomorown1 = '6281387307198'
-global.nomorown2 = '6281387307198'
+global.nomorbot = '6281393872937'
+global.nomorown = '6281391317450'
+global.nomorown1 = '6281391317450'
+global.nomorown2 = '6281391317450'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Ryzn'
-global.namebot = '​ NaoBotz'
-global.wm = '© NaoBotz By Ryzn'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'Ryzn '
+global.author = 'Kisanagi'
+global.namebot = '​ MochiBot'
+global.wm = '© MochiBot By K'
+global.media = 'https://i.ibb.co/TWr6zsQ/Picsart-23-02-13-13-02-24-187.jpg'
+global.wm = 'Kisanagi '
 global.watermark = wm
-global.wm2 = 'Ryzn '
+global.wm2 = 'Kisanagi '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `NaoBotz`
-global.stickpack = 'NaoBotz'
-global.stickauth = `© Ryzn`
+global.titlebot = `MochiBot`
+global.stickpack = 'MochiBot'
+global.stickauth = `© Kisanagi`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Ryzn'
-global.nameown2 = 'Ryzn'
+global.nameown1= 'Kisanagi'
+global.nameown2 = 'Ai'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://www.instagram.com/ryzen_vermillion'
-global.sgh = 'https://github.com/ShirokamiRyzen' //github
+global.sig = '-'
+global.sgh = '-' //github
 global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UC5z1Xp6vQGU038B1RbMC3Gg'
+global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 8730 7198'
-global.povo = '-'
-global.pgopay = '0813 8730 7198'
+global.pdana = '0813 9131 7450'
+global.povo = '0813 9131 7450'
+global.pgopay = '0813 9131 7450'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 8730 7198'
-global.ppulsa2 = '0813 8730 7198'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 
@@ -268,15 +268,15 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg'
-global.giflogo = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg'
-global.thumbs = ['https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg']
+global.thumb = 'https://i.ibb.co/TWr6zsQ/Picsart-23-02-13-13-02-24-187.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/TWr6zsQ/Picsart-23-02-13-13-02-24-187.jpg'
+global.giflogo = 'https://i.ibb.co/TWr6zsQ/Picsart-23-02-13-13-02-24-187.jpg'
+global.thumbs = ['https://i.ibb.co/TWr6zsQ/Picsart-23-02-13-13-02-24-187.jpg']
 global.thumbnailUrl = [
-  'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg'
+  'https://i.ibb.co/TWr6zsQ/Picsart-23-02-13-13-02-24-187.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/f6e750a5f247dcb767f81.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/f6e750a5f247dcb767f81.jpg' //ini juga ganti 
+global.fotonya1 = 'https://i.ibb.co/TWr6zsQ/Picsart-23-02-13-13-02-24-187.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.ibb.co/TWr6zsQ/Picsart-23-02-13-13-02-24-187.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
@@ -305,16 +305,16 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'INSTAGRAM'
-global.urlnya = "https://www.instagram.com/ryzen_vermillion"
+global.urlnya = "-"
 global.dtc = 'CALL OWNER'
-global.phn = '0813 8730 7198'
+global.phn = '0813 9131 7450'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://i.ibb.co/TWr6zsQ/Picsart-23-02-13-13-02-24-187.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {

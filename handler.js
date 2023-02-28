@@ -211,7 +211,7 @@ export async function handler(chatUpdate) {
                     exp: 0,
                     limit: 100,
                     lastclaim: 0,
-                    registered: false,
+                    registered: true,
                     name: m.name,
                     pasangan: '',
                     age: -1,
